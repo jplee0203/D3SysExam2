@@ -1,0 +1,32 @@
+/Users/a00903971//.Trash/Backup/commands/bottom.txt
+/Users/a00903971//.Trash/Backup/commands/desktopls.txt
+/Users/a00903971//.Trash/Backup/commands/find.txt
+/Users/a00903971//.Trash/Backup/commands/top.txt
+/Users/a00903971//.Trash/Backup/img/img.txt
+/Users/a00903971//.Trash/commands/desktopls.txt
+/Users/a00903971//.Trash/D3SysExam/commands/bottom.txt
+/Users/a00903971//.Trash/D3SysExam/commands/desktopls.txt
+/Users/a00903971//.Trash/D3SysExam/commands/find.txt
+/Users/a00903971//.Trash/D3SysExam/commands/top.txt
+/Users/a00903971//.Trash/D3SysExam/img/img.txt
+/Users/a00903971//.Trash/htdocs/commands/desktopls.txt
+/Users/a00903971//.Trash/htdocs/img/img.txt
+/Users/a00903971//.Trash/htdocs 5.18.56 PM/commands/desktopls.txt
+/Users/a00903971//.Trash/htdocs 5.18.56 PM/img/img.txt
+/Users/a00903971//.Trash/img/img.txt
+/Users/a00903971//.Trash/MyGit/D3SysExam/img/img.txt
+/Users/a00903971//.Trash/shellcommands.txt
+/Users/a00903971//.Trash/top.txt
+/Users/a00903971//Desktop/MyGit/D3SysExam2/commands/bottom.txt
+/Users/a00903971//Desktop/MyGit/D3SysExam2/commands/desktopls.txt
+/Users/a00903971//Desktop/MyGit/D3SysExam2/commands/find.txt
+/Users/a00903971//Desktop/MyGit/D3SysExam2/commands/img.txt
+/Users/a00903971//Desktop/MyGit/D3SysExam2/commands/top.txt
+/Users/a00903971//Documents/cat1.txt
+/Users/a00903971//htdocs/commands/desktopls.txt
+/Users/a00903971//htdocs/img/img.txt
+/Users/a00903971//Library/Application Support/Google/Chrome/Default/Extensions/ihjbpjahiibmjdlcgodcnmpelpmilamk/4.5_0/res/coupons.txt
+/Users/a00903971//Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/783e7ccd1569e6f0af8b16953519e77950ae84e4/index.txt
+/Users/a00903971//Library/Application Support/TextWrangler/.SupportFolderMigration.txt
+/Users/a00903971//Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
+/Users/a00903971//Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000001-csi.txt
